@@ -1,0 +1,2 @@
+com/smartapp/lib01/BuildConfig.java
+ com.smartapp.lib01.BuildConfig
